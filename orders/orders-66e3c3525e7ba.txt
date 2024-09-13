@@ -1,0 +1,15 @@
+Order Code: orders-66e3c3525e7ba
+
+Date and Time: September 13, 2024, 12:45 pm
+
+Product ID	Product Name	Price
+----------------------------------------
+1	1Kg Sugar	100
+2	1L Milk	120
+3	One Dozen Eggs	200
+4	5Kg Sugar	500
+5	25Kg Rice	1200
+6	One Tray Eggs	300
+1	1Kg Sugar	100
+----------------------------------------
+Total: 2520
